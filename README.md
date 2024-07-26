@@ -3,4 +3,4 @@ OBJECTIVE - Vrinda store wants to create an annual sales report for 2022.<br>
             So that, Vrinda can understand their customers and grow more sales in 2023.
 <br>
 <br>
-In this project I created a MIS report and a DASHBOARD for a cloth store named VRINDA STORE where I gave helpful insights like sales quantity per month etc. These insights help the store to target most suitable customers and increase their sales .
+In this project I created a MIS report and a DASHBOARD for a cloth store named VRINDA STORE where I gave helpful insights like sales quantity and order placed per month , quantity of clothers as per size,channels that contribute in maximum sales, max contributing age group etc. These insights help the store to target most suitable customers and increase their sales .
